@@ -1,0 +1,15 @@
+body {
+    --color-background: #FBFBFB;
+    --color-background2: #105CF7;
+    --color-background3: #151148;
+    --color-background4: #F4F5F7;
+    --color-background5: #D3E2FF;
+    --color-text: #000000;
+    --color-text2: #18191F;
+    --color-text3: #0E3381;
+    --color-text4: #FFFFFF;
+    --color-text5: #E1E1E1;
+
+    color: var(--color-text);
+    background-color: var(--color-background);
+}

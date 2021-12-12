@@ -1,0 +1,26 @@
+.label {
+    color: white;
+    font-size: 50px;
+    font-family: Arial;
+    margin-bottom: 50px;
+}
+
+.text {
+    color: white;
+    font-size: 25px;
+    font-family: Arial;
+    margin-bottom: 25px;
+}
+
+.link {
+    color: pink;
+    font-family: "Microsoft Sans Serif";
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.bigBox {
+    width: 70vw;
+    height: 70vh;
+    margin: 0 auto;
+}

@@ -1,0 +1,7 @@
+.buttonsWrapper {
+    display: flex;
+}
+
+.buttonsWrapper > div:not(:last-child) {
+    margin-right: 30px;
+}

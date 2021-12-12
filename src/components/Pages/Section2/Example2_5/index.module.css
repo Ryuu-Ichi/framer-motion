@@ -1,0 +1,29 @@
+.container {
+    height: 300vh;
+    width: 100vw;
+    background: aquamarine;
+    position: relative;
+}
+
+.box {
+    margin: 0 auto;
+    margin-top: 250px;
+    transition: 0.3s;
+}
+
+.box2 {
+    transition: 0.3s;
+}
+
+.box3 {
+    transition: 0.3s;
+    margin-left: auto;
+    margin-right: 100px;
+    position: relative;
+    top: -300px;
+}
+
+.box4 {
+    transition: 0.5s;
+
+}
